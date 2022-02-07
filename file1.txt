@@ -1,3 +1,6 @@
 123
 conflict line
 commit test
+another line
+commit test
+
