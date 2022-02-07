@@ -1,7 +1,6 @@
 123
-conflict line
+conflict line update
 commit test
 another line
 commit test
 
-new branch line
